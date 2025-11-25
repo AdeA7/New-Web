@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nicol Rider - Portfolio</title>
+    <link rel="stylesheetdy>
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            <span class="dot"></span>
+            <h1>Nicol Rider</h1>
+            <p>Editor</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#" id="resumeBtn        <li><a href="#" id="projects           <li><a href="#" id="contactBtn    </ul>
+        </nav>
+    </header>
+
+    <!-- Main Section -->
+    <main>
+        <div class="profile">
+            <img src="profile.jpg" alt2>Hello</h2>
+            <h3>A Bit About Me</h3>
+            <p>I'm a paragraph. Click here to add your own text and edit me. I'm a great place for you to tell a story and let your users know a little more about you.</p>
+            <div class="buttons">
+                <button class="btn resume" id="resumeBtnMain">Resume</button>
+                <button class="btn projects" id="projectsBtnMain">Projects</button>
+                <button class="btn contact" id="contactBtnMain">Contact</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-info">
+            <p><strong>Phone:</strong> 123-456-7890</p>
+            <p><strong>Email:</strong> info@mysite.com</p>
+        </div>
+        <div class="social">
+            <p>Follow Me</p>
+            <aimg src="linkedin-icon.png" alt="<<img src="twitter-icon.png" alt="Twitter    <div class="credits">
+            <p>© 2025 by Nicol Rider. Powered and secured by Wix.</p>
+        </div>
+    </footer>
+
+    <script src="script.jsody>
+</html>
